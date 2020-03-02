@@ -1,0 +1,60 @@
+buildscript {
+	repositories {
+		maven {
+			url "https://plugins.gradle.org/m2/"
+		}
+		mavenCentral()
+	}
+	dependencies {
+		classpath('org.springframework.boot:spring-boot-gradle-plugin:2.2.4.RELEASE')
+		classpath('com.google.cloud.tools.jib:com.google.cloud.tools.jib.gradle.plugin:1.8.0')
+
+	}
+}
+
+plugins {
+	id 'org.springframework.boot' version '2.2.4.RELEASE'
+	id 'io.spring.dependency-management' version '1.0.9.RELEASE'
+	id 'java'
+	id 'com.bmuschko.docker-remote-api' version '4.8.0'
+	id 'com.google.cloud.tools.jib' version '1.8.0'
+}
+
+group = 'vkr'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '1.8'
+
+configurations {
+	developmentOnly
+	runtimeClasspath {
+		extendsFrom developmentOnly
+	}
+}
+//
+//repositories {
+//	mavenCentral()
+//}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	developmentOnly 'org.springframework.boot:spring-boot-devtools'
+	testImplementation('org.springframework.boot:spring-boot-starter-test') {
+		exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+	}
+	compile('org.springframework.boot:spring-boot-starter-data-jpa')
+	compile('org.postgresql:postgresql')
+	compile('org.projectlombok:lombok')
+	compile('javax.xml.bind:jaxb-api')
+//	compile('javax.xml.bind:jaxb-core')
+//	compile('com.sun.xml.bind:jaxb-impl')
+
+	compile('org.springframework.boot:spring-boot-starter-security')
+	compile('org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:2.0.0.RELEASE')
+}
+
+test {
+	useJUnitPlatform()
+}
+
+
+apply plugin: 'com.google.cloud.tools.jib'

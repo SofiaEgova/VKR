@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="VKR.main:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f2307bb-d802-47a7-9ae3-41658fffc6b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.0.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/VKR_main_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vkr/VKR/VkrApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vkr/VKR/config/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vkr/VKR/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vkr/VKR/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vkr/VKR/controller/TimeSeriesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vkr/VKR/models/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vkr/VKR/models/TimeSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vkr/VKR/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vkr/VKR/repo/TimeSeriesRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vkr/VKR/repo/UsrRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/vkr/VKR/VkrApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Xr9AqjoFnHSxkcDkw0hn28QVHF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="VkrApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="VKR.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vkr.VKR.VkrApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f2307bb-d802-47a7-9ae3-41658fffc6b7" name="Default Changelist" comment="" />
+      <created>1581793206300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581793206300</updated>
+      <workItem from="1581793210659" duration="80000" />
+      <workItem from="1581793306297" duration="3767000" />
+      <workItem from="1581797360897" duration="7542000" />
+      <workItem from="1582815622635" duration="927000" />
+      <workItem from="1582817985241" duration="1475000" />
+      <workItem from="1582824884038" duration="3051000" />
+      <workItem from="1583134791290" duration="736000" />
+      <workItem from="1583138154004" duration="36000" />
+      <workItem from="1583138349810" duration="7299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1583144616347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1583144616347" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581916544914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581916544914" />
+    <state x="574" y="113" width="388" height="711" key="#com.intellij.ide.util.MemberChooser" timestamp="1583144584738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="113" width="388" height="711" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583144584738" />
+    <state x="499" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581798225785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1581798225785" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1583138188569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583138188569" />
+    <state width="1493" height="162" key="GridCell.Tab.0.bottom" timestamp="1583144715736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583144715736" />
+    <state width="1493" height="162" key="GridCell.Tab.0.center" timestamp="1583144715736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583144715736" />
+    <state width="1493" height="162" key="GridCell.Tab.0.left" timestamp="1583144715736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583144715736" />
+    <state width="1493" height="162" key="GridCell.Tab.0.right" timestamp="1583144715736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583144715736" />
+    <state width="1493" height="162" key="GridCell.Tab.1.bottom" timestamp="1583144715737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583144715737" />
+    <state width="1493" height="162" key="GridCell.Tab.1.center" timestamp="1583144715737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583144715737" />
+    <state width="1493" height="162" key="GridCell.Tab.1.left" timestamp="1583144715737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583144715737" />
+    <state width="1493" height="162" key="GridCell.Tab.1.right" timestamp="1583144715737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583144715737" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1581798343800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581798343800" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1583134794641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583134794641" />
+    <state x="407" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583143769607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1583143769607" />
+    <state x="330" y="148" width="876" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583141447784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="330" y="148" width="876" height="601" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1583141447784" />
+  </component>
+</project>
